@@ -9,10 +9,10 @@ This project focuses on predicting the loan status (approval or default) using s
 * Hyperparameter Tuning: Optimizing model parameters for better performance.<br/>
 
 ## Algorithms Used
-Logistic Regression<br/>
-Random Forest Classifier<br/>
-Decision Tree <br/>
-KNN <br/>
+* Logistic Regression<br/>
+* Random Forest Classifier<br/>
+* Decision Tree <br/>
+* KNN <br/>
 
 # Dataset
 The dataset contains information about loan applicants, including age, income, credit score, loan amount, and other relevant features. The target variable is the loan status, which indicates whether a loan was approved or defaulted.<br/>
